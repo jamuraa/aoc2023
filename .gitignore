@@ -1,0 +1,10 @@
+*.sw[op]
+
+# Compiled
+target/
+
+# Don't commit the inputs
+input.txt
+
+Cargo.lock
+
